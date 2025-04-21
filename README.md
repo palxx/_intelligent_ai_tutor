@@ -17,7 +17,3 @@ npm start
 ```
 
 Open http://localhost:4200/ in browser.
-
-## Contributors
-- [Sumedha Koranga](https://sumedha.info/)
-- [Aniket Sharma](https://www.aniketsharma.net/)
